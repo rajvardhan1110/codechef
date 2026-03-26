@@ -1,0 +1,1 @@
+{"name":"Local: Q4","url":"/home/rajvardhan/codechef/231_div2/Q4.cpp","tests":[{"id":1774454199367,"input":"4\n2\n1 2\n3\n1 3 2\n5\n1 3 3 2 5\n10\n2 5 3 3 4 4 8 10 7 8","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/rajvardhan/codechef/231_div2/Q4.cpp","group":"local","local":true}
